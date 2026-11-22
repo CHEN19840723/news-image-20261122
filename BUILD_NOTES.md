@@ -80,7 +80,10 @@ is presented as 22 November news.
   identical to entry.png. Re-run after the main.py revision: same hashes.
 - main.py written fresh, then revised once (size guard added).
 - Repo: https://github.com/CHEN19840723/news-image-20261122 (public,
-  created after the competition opened 2026-11-22T00:00:00Z).
+  created after the competition opened 2026-11-22T00:00:00Z; created
+  2026-11-22T00:17:49Z).
+- Commit: e55028c6f1678d579350b93d1a1a9b354b24dd37 (see below for final HEAD
+  after the BUILD_NOTES update commit).
 - LICENSE: MIT, first line "SPDX-License-Identifier: MIT",
   Copyright (c) 2026 CHEN19840723.
 - Repo About set (description, homepage
