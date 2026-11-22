@@ -1,8 +1,8 @@
 # The World Today — Sunday, 22 November 2026
 
-[![make.fun](https://img.shields.io/badge/make.fun-news--image--20261122-blue)](https://make.fun/bounty/news-image-20261122)
-[![competition](https://img.shields.io/badge/competition-Sum%20up%2022%20November's%20world%20news%20in%20one%20image-green)](https://make.fun/bounty/news-image-20261122)
-[![prize](https://img.shields.io/badge/prize-%24100%20USDC-gold)](https://make.fun/bounty/news-image-20261122)
+[![make.fun · news-image-20261122](https://make.fun/badge/news-image-20261122.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![rank](https://make.fun/badge/news-image-20261122/CHEN19840723/news-image-20261122/rank.svg)](https://make.fun/bounty/news-image-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![reward](https://make.fun/badge/news-image-20261122/CHEN19840723/news-image-20261122/reward.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
 
 Entry for make.fun's **news-image-20261122** bounty: "Sum up 22 November's world news in one image" ($100 prize pool: $20 / $12 / $6 / $2 × 7 / $1.20 × 40).
 
